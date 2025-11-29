@@ -17,7 +17,7 @@ The circuit description file was made based on this hand drawn schematic:
 
 The amplifier in the circuit was modelled using a Voltage Dependent Voltage Source (E1), the output voltage is limited as in real world amplifiers using the table option.
 
-Te diodes and voltage sources introduce non-linearity which is a essential part of the circuit.
+The diodes and voltage sources introduce non-linearity which is a essential part of the circuit.
 
 ## Ring Modulator
 
@@ -26,6 +26,7 @@ This is a classic ring modulator with 4 diodes. The circuit multiplies two signa
 ![Ring_Modulator.png](Ring_Modulator.png)
 
 Schematic found on wikimedia: [https://commons.wikimedia.org/wiki/File:Ring_Modulator.PNG](https://commons.wikimedia.org/wiki/File:Ring_Modulator.PNG)
+License: [https://creativecommons.org/licenses/by-sa/3.0/deed.en](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
 Modified by adding node numbers.
 
 Circuit desciption file: [ring_mod.sp](ring_mod.sp)
