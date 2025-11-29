@@ -18,7 +18,7 @@ V2 0 8 9V
 R8 4 7 47kOhm
 V1 7 0 9V
 * diode model
-.model 1N4148 D (Is=2.52n Rs=.568 N=1.752 Cjo=4p M=.4 tt=20n Iave=200m Vpk=75 mfg=OnSemi type=silicon)
+.model 1N4148 D (Is=2.52n Rs=.568 N=1.752 Cjo=4p M=.4 tt=20n Iave=200m Vpk=75)
 * transient analysis (voltages and currents as function of time)
 .TRAN .02ms 30ms uic
 .control
