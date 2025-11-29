@@ -1,7 +1,7 @@
 # ngspice_analog_circuit_simulation
 Files for use with the [ngspice](https://ngspice.sourceforge.io/) circuit simulation software
 
-## [Chua's circuit](chua_circuit_6.sp)
+## Chua's circuit
 
 This circuit desciption runs a version of Chua' circuit which shows chaotic behavior.
 
